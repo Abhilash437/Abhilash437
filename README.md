@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhilash437
-- 👀 I’m interested in programming and web development
+- 👀 I’m interested in programming, machine learning and web development
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on full stack web-dev projects
-- 📫 How to reach me abhilashhathwar20@gmail.com
+- 💞️ I’m looking to collaborate on full stack web-dev projects and machine learning projects
+- 📫 How to reach me - abhilashhathwar20@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhilash437&theme=dark)](https://git.io/streak-stats)
 
