@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on full stack web-dev projects and machine learning projects
 - 📫 How to reach me - abhilashhathwar20@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abhilash437&theme=dark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilash437&layout=compact&theme=vision-friendly-dark)
 
